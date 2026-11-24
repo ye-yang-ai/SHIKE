@@ -1,0 +1,23 @@
+Model caption: A clean, modern Android mobile app home screen (vertical smartphone UI, light theme, Chinese), designed for the productivity app “拾刻 SHIKE”-style timer and habit tracker. Overall scene: a full-screen Android UI mockup with a status bar at top, lots of soft rounded cards, blue/green accents, icons, a large circular Pomodoro-like timer in the center, today overview stats, and a “今日打卡” checklist, plus a bottom navigation bar with four tabs. The aesthetic is minimal, airy, rounded rectangles, subtle shadows, smooth gradients/flat icons, and crisp sans‑serif Chinese typography.  
+
+**Top status bar:** at far top left the time “10:24”; top right Android indicators: Wi‑Fi/triangle-like signal icon and battery icon with text “82%”.  
+
+**App header:** top-left logo: a rounded square gradient-ish blue icon with two slanted white strokes (///-style), next to bold Chinese app title “拾刻”. Top-right: two thin outline icons: a calendar icon (square with grid dots) and a bell/notification outline.  
+
+**Below header greeting block:** large bold text “11月24日 星期二” (Nov 24, Tuesday), and beneath it a lighter gray subtitle “今天也留一点时间给自己”. A pale mountain-like abstract landscape/rounded hills in the upper right background behind the header area, very light blue/gray gradient shapes.  
+
+**Task selector card:** a rounded rectangle near top: left small gray label “当前任务”, then a vertical separator line, then large bold text “机器学习复习”. On the right side of the same card: a light rounded pill in mint/green “25 分钟” and a small downward chevron/dropdown arrow on far right. Card is white with subtle shadow.  
+
+**Main central timer area:** big circular ring timer centered: a thick circular ring (light very pale bluish-gray full circle track) with a bright blue arc segment (clockwise portion) starting near top and sweeping around the right and bottom, giving a progress look (about maybe 35–40%). Inside the circle: huge black digits “25:00”. Beneath it a small target/reticle-like icon and text “专注时光” in gray. Below that, a rounded pill-like blue primary button with white text “开始专注” and a white play triangle icon at left. The overall circle sits on a soft pale background with lots of white space.  
+
+**Middle section: 今日概览 (today overview)**: a rounded card. Top left title “今日概览” in bold black; at far right a lighter link “查看详情 >”. Inside are four small rounded stat tiles in a row: each tile has an icon and labels and big numbers. First tile: a blue stopwatch icon, text “今日专注”, large “2.5h” (with “h” in smaller weight); tile background very pale blue. Second tile: stacked layers icon in teal/green, text “专注次数”, large “5次”; pale mint background. Third tile: checkbox with check mark outline in blue, text “打卡完成”, large “3项”; pale light blue background. Fourth tile: flame icon in mint/green, text “连续打卡”, large “12天”; pale green background.  
+
+**Below: 今日打卡 (today check-ins)**: another rounded card. Top left “今日打卡” and at right “全部习惯 >” in light gray. Inside, a vertical list of three habit rows with icons on left, habit name and duration text, and completion indicator on right.  
+
+Row 1: book icon in blue inside a rounded badge, text “阅读”, smaller gray “30 分钟”; on the right a mint/green rounded chip with a check mark and text “已完成”; the row background is very soft mint highlight.  
+
+Row 2: “A” flashcard-like or letter tile icon in blue/purple, text “背单词”, smaller gray “20 分钟”; to the right a horizontal progress bar: a rounded bar with a medium blue fill about 60% and pale gray remainder, with text “进行中 60%” in gray under/near the bar.  
+
+Row 3: stretching/yoga-like person icon in green, text “晚间拉伸”, smaller gray “15 分钟”; on the far right an empty square checkbox outline and text “未开始” in gray. Row separators are subtle, all in a large rounded white card.  
+
+**Bottom navigation bar:** four tabs aligned horizontally on white bar with icons and labels: leftmost active home icon (house) filled in blue with label “首页” in blue; next a checkbox/tick square outline and label “打卡” in gray; third a bar chart icon and label “统计”; fourth a person outline icon and label “我的”. Below/near the very bottom is a centered Android gesture pill (a rounded dark gray bar) on the device bezel area. The design uses rounded corners, soft shadows, consistent spacing, and clean minimal UI proportions.

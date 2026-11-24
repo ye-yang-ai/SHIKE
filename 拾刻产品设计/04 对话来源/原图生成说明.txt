@@ -1,0 +1,62 @@
+﻿Create a premium minimalist brand identity exploration board for a young, cool Android productivity and personal-growth app named 拾刻 / SHIKE. Show exactly THREE distinct logo symbol concepts side by side in three equal vertical columns on a clean warm-white background, with generous whitespace, precise grid alignment, crisp flat vector geometry, and restrained use of graphite black (#171A1F), electric slate blue (#4B6BFB), and neo mint (#2FD6A0). No mascot, no characters, no plants, no tomato, no hourglass, no clock hands, no gradients, no shadows, no mockup devices, no decorative patterns. Each logo must be a standalone, bold, simple symbol that remains recognizable at small Android app-icon sizes. Concept A: an incomplete circular time ring with a deliberate opening and a subtle upward-cut notch, suggesting collecting moments and continuous growth; the negative space should hint at a flowing S without becoming a literal letter. Concept B: a geometric SHIKE monogram combining S and K into one compact angular mark, with a diagonal rising stroke and carefully balanced negative space; strong technology-brand character. Concept C: a modular 'collected moments' symbol built from a circular arc and three progressively rising geometric segments or ticks, expressing accumulated focus sessions and visible progress; avoid looking like a generic analytics chart. Present each symbol centered in its own equal column, with each also shown as a simple rounded-square app icon tile beneath or around it, keeping the symbol itself visually dominant. Use graphite as the main symbol color, with only a tiny blue or mint accent where meaningful. Add tiny clean labels 'A', 'B', 'C' only if text renders accurately; otherwise no text. High-end contemporary Swiss-inspired visual identity, restrained, youthful, editorial, vector-logo presentation, no extra content.
+
+Design a high-fidelity Android mobile app UI mockup for the app brand "拾刻 SHIKE". Create a single full-screen mobile interface in Chinese, light theme, with a cool minimal visual style, balanced information density, and a clean young productivity aesthetic. This is the HOME page.
+
+Brand and visual system:
+- Brand name: 拾刻
+- Personality: cool, young, growth-oriented, minimal
+- Theme: light mode
+- Primary colors: graphite black text (#171A1F), blue accent (#4B6BFB), mint accent (#2FD6A0), soft white / very light gray backgrounds (#F7F9FC / #FFFFFF), divider gray (#E7EBF0)
+- Rounded cards, subtle shadows, clear spacing, modern sans-serif Chinese UI typography, crisp line icons.
+- No mascots, no cartoon IP, no clutter.
+
+Page goal:
+This screen should let the user immediately start focusing, while also seeing a balanced overview of today’s progress.
+
+Layout details from top to bottom:
+1) Android status bar at top.
+2) App header with small app icon/logo on the left and the text "拾刻". On the right, show a calendar icon and a settings or reminder icon.
+3) Greeting/date area with a concise line such as "11月24日 星期二" and a subtle supportive line like "今天也留一点时间给自己".
+4) Task selector card: label "当前任务" and selected task "机器学习复习" with a small dropdown or switch indicator. Optional small tag like "25 分钟".
+5) Main hero section: a large circular ring countdown timer centered on screen. Show a bold time "25:00" inside. Below the time display a small status text like "专注时光" and a larger blue primary button labeled "开始专注". The ring should use a blue progress arc over a pale background ring. This must be the main focal point.
+6) Today overview: a rounded card section labeled "今日概览" with four compact stat tiles in one row or 2x2 grid. Include:
+- "今日专注" 2.5h
+- "专注次数" 5次
+- "打卡完成" 3项
+- "连续打卡" 12天
+Use small simple icons and restrained colors.
+7) Habit summary card labeled "今日打卡" showing 3 habits with checkboxes or progress pills:
+- 阅读 30 分钟 (completed)
+- 背单词 20 分钟 (in progress)
+- 晚间拉伸 15 分钟 (not started)
+Use clear completion states.
+8) Bottom navigation bar with four tabs: 首页, 打卡, 统计, 我的. Highlight 首页 as active.
+
+Important composition requirements:
+- Use a full mobile screen mockup only, no surrounding presentation board.
+- Make it look like a polished real Android product mockup.
+- Balanced density: not too empty, not overloaded.
+- Keep all text in Chinese.
+- Ensure excellent hierarchy and readability.
+- The result should look like a product designer’s high-fidelity UI shot, not a wireframe.
+
+Create a refined high-fidelity Android mobile app home screen for the Chinese productivity app brand “拾刻 SHIKE”. Image A is a style and system reference only: match its clean light theme, modern minimal aesthetics, white background, soft rounded cards, subtle shadows, black typography, electric blue as the main accent color, and mint green as the secondary growth/completion accent color. Preserve the overall premium feel but improve the information architecture to support a complete five-page product system.
+
+Design a full-screen vertical smartphone UI mockup in Chinese, suitable for Android. The page is the HOME page. Use a light theme and a large central ring countdown timer. The design should feel polished, production-ready, and balanced in information density.
+
+Required content and structure:
+- Android status bar at top with time 10:24 and typical signal / Wi-Fi / battery icons.
+- App header: left side app icon and wordmark “拾刻”; right side calendar icon and notification bell icon.
+- Greeting block with large title “11月24日 星期二” and subtitle “今天也留一点时间给自己”. Add a very subtle abstract pale-blue background shape behind the header for atmosphere.
+- Task selector card: left label “当前任务”, main task name “机器学习复习”, a mint pill on the right “25 分钟”, and a dropdown chevron.
+- Large circular ring timer centered on the page. Pale track ring plus vivid blue progress arc. Inside show large “25:00”. Under it show small secondary label “专注时光”. Add a prominent rounded blue primary button inside or below the ring with play icon and text “开始专注”.
+- A card titled “今日概览” with link text “查看详情”. Inside show four compact stat tiles: “今日专注 2.5h”, “专注次数 5次”, “打卡完成 3项”, “连续打卡 12天”. Each tile should have a small line icon and soft tinted background.
+- A card titled “今日打卡” with link “全部习惯”. Show three habit rows: 1) 阅读 / 30分钟 / 已完成 with mint completion chip, 2) 背单词 / 20分钟 / 进行中 60% with blue progress bar, 3) 晚间拉伸 / 15分钟 / 未开始 with empty checkbox.
+- Bottom navigation must have FIVE tabs, evenly spaced: “首页”, “打卡”, “统计”, “成长”, “我的”. The home tab is active in blue; the other four are gray. Use simple line icons. Include the Android gesture pill at bottom.
+
+Important style constraints:
+- Use a premium minimal Android UI style.
+- Keep layout airy and balanced, not crowded.
+- Use Chinese text exactly as specified.
+- Make the UI cohesive and realistic, as if for a design handoff or product showcase.
+- Do not add any mascots or cartoon IP. No dark theme. No extraneous decorative elements.
